@@ -1,0 +1,18 @@
+/*-------------------------------------------
+ base 
+-------------------------------------------*/
+// フォントをGoogle Fontsからインポート
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Zen+Kaku+Gothic+New&display=swap');
+
+body{
+  color: #333333;
+  //font-family : "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  font-family: "Zen Kaku Gothic New", zen-kaku-gothic-new, "Noto Sans", "Yu Gothic", "HiraKakuProN-W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, Osaka, "MS UI Gothic", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+a{
+  color: #337ab7;
+  text-decoration : none;
+}
+a:hover{
+  text-decoration : underline;
+}
